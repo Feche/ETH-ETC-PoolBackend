@@ -1,7 +1,7 @@
 # ETH-ETC-PoolBackend
 Backend for ETH/ETC mining pool made in Node.js
 
-Run:
+# Run:
 npm install
 
 node Server.js
