@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@ethereumjs/ethash": "^1.1.0",
+    "chalk": "^5.0.1",
+    "express": "^4.18.1",
+    "keypress": "^0.2.1",
+    "memory-level": "^1.0.0",
+    "mysql": "^2.18.1",
+    "request": "^2.88.2",
+    "sha3": "^2.1.4",
+    "web3": "^1.7.5"
+  }
+}
