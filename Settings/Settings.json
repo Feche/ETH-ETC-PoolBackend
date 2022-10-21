@@ -10,8 +10,8 @@
     },
     "payouts":
     {
-        "private_key": "0xb7782ced2e547236783822b178ffa6c1c403327d0a5fbb0722d9fb613b80358f",
-        "address": "0xe4Dcb9944ac9D1A5AD9eDeC34866de2FED956812",
+        "private_key": "your_private_key",
+        "address": "your_wallet_address",
         "interval": "1m"
     },
     "geth":
